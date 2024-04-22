@@ -21,7 +21,7 @@ dependencies = [
     "torchvision>=0.8",
     "numpy",
     "opencv-python==4.5.5.64",
-    "opencv-contrib-python==4.5.5.64"
+    "opencv-contrib-python==4.5.5.64",
     "tqdm",
     "matplotlib",
     "scipy",
